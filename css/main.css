@@ -11,7 +11,6 @@ a {
 .flexbox {
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row;
 }
 
 .container {
@@ -41,6 +40,7 @@ header {
     color: #232536;
     background-color: #FFFFFF;
     padding: 16px 48px;
+    border: none;
 }
 
 .links>a {
@@ -61,5 +61,7 @@ header {
     font-style: normal;
     font-weight: 700;
     line-height: 24px;
+    border: none;
 }
+
 
