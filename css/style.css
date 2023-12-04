@@ -1,0 +1,72 @@
+.header {
+    background-image: url("/images/Homepage images/home.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 126px 0px 190px;
+}
+
+.header>.container>p {
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.header>.container>p>span {
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+h1 {
+    width: 803px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: Sen;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -2px;
+    margin-top: 24px;
+}
+
+.date {
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 24px;
+}
+
+.date>span {
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    color: #FFD050;
+}
+
+.header>.container>.info {
+    width: 599px;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-top: 24px;
+    letter-spacing: 0;
+    text-transform: none;
+}
+
+.read_more{
+    margin-top: 48px;
+}
