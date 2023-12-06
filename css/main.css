@@ -7,7 +7,9 @@
 a {
     text-decoration: none;
 }
-
+.text_center{
+    text-align: center;
+}
 .flexbox {
     display: flex;
     flex-wrap: wrap;
