@@ -3,7 +3,9 @@
     padding: 0;
     margin: 0;
 }
-
+.margin_16{
+    margin-bottom: 16px;
+}
 a {
     text-decoration: none;
 }
