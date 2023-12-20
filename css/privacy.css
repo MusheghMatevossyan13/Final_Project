@@ -1,8 +1,9 @@
 .title {
-    padding: 80px 569px;
     background-color: #F4F0F8;
 }
-
+.title>.container{
+    text-align: center;
+}
 h1 {
     color: #232536;
     text-align: center;
